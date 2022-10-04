@@ -16,7 +16,7 @@ import LoginOutlinedIcon from '@mui/icons-material/LoginOutlined';
 import HowToRegIcon from '@mui/icons-material/HowToReg';
 
 // import hook 
-import { useContext, useState } from 'react';
+import { useState } from 'react';
 
 // image import
 import logo from './images/iSHOP_Logo.svg'
@@ -24,7 +24,7 @@ import logo from './images/iSHOP_Logo.svg'
 
 const Header = () => {
 
-    const { visiblelink, setVisiblelink } = useState(false);
+    const { visiblelink } = useState(false);
 
     return (
         <>

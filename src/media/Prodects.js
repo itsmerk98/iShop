@@ -1,4 +1,3 @@
-
 export const Item = [
     {
         id: 1,
@@ -99,7 +98,7 @@ export const Item = [
         color: "gray",
         brand: "apple",
         price: 129
-    }, ,
+    },
     {
         id: 11,
         category: "accessores",
@@ -120,7 +119,6 @@ export const Item = [
         brand: "apple",
         price: 129
     },
-    
     
 ]
 
