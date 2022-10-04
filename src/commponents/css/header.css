@@ -1,0 +1,229 @@
+
+.header-sec {
+    position: relative;
+}
+
+.dropdown-btn{
+    width: 100%;
+}
+
+.close-btn{
+    float: right;
+    margin: 15px 20px 5px auto;
+    color: #FF4252;
+}
+
+.top-sec {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+.top-manu {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.selecters {
+    display: flex;
+    align-items: center;
+}
+
+.selecters p {
+    display: flex;
+}
+
+.selecters select {
+    outline: none;
+    margin-right: 10px;
+    border: none;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.profile-sec {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 2;
+}
+
+.user-profile {
+    margin-right: 15px;
+    font-size: 14px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+
+
+.item {
+    font-size: 14px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.my-pf{
+    margin: 0 10px;
+}
+
+.item-no{
+    margin: 0 10px;
+}
+
+.amount {
+    color: rgb(156, 156, 156);
+}
+
+.searching {
+    padding: 4px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+
+.searching input {
+    display: none;
+    flex: 2;
+    margin: 5px;
+    height: 20px;
+    padding-left: 10px;
+    border: none;
+    overflow: hidden;
+    outline: none;
+}
+
+
+/* ! Logo section  */
+
+.logo-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    margin-top: 40px;
+    font-size: 45px;
+    color: #FF4252;
+
+}
+
+/* ! Navigation link  */
+
+.nav{
+    margin: 10px;
+    font-size: 14px;
+}
+.nav-link{
+    width: 80%;
+    margin: auto;
+
+}
+.nav-link .ul{
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+.nav-link .ul li{
+    flex: 1;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+.nav-link .ul li a {
+    padding: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.822);
+    width: 100%;
+    text-decoration: none;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec-store{
+    padding: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.822);
+    width: 100%;
+    text-decoration: none;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.store{
+    width: 70px;
+    margin: auto;
+    border: none;
+    color: rgba(0, 0, 0, 0.822);
+    background-color: transparent;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: 100;
+    display: none;
+}
+.store option{
+    margin: 0;
+}
+.nav-link .ul li :hover{
+    color: blue;
+}
+
+  
+/* ! hover manu list */
+
+.link{
+    display: none;
+    width: 80%;
+    background-color: #ebebeb;
+    margin: auto;
+    /* margin-top: 10px; */
+    box-sizing: border-box;
+    position: relative;
+    z-index: 100;
+} 
+.accessories{
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    padding-bottom: 10px;
+    position: absolute;
+    border-top: 1px solid rgba(0, 0, 0, 0.322);
+    border-radius: 0 0 5px 5px;
+}
+
+.accessories tr{
+    height: 35px;
+}
+.accessories th{
+    padding-left: 20px;
+    text-align: left;
+    color: #C1C8CE;
+}
+.accessories td{
+    padding-left: 20px;
+    color: #262626;
+    cursor: pointer;
+}
+.accessories td a{
+    color: black;
+    text-decoration: none;
+} 
+.accessories td a:hover{
+    color: blue;
+} 

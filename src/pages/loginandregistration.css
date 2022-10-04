@@ -1,0 +1,49 @@
+
+.form_sec{
+    background-image: url(../../public/images/2_corousel.svg);
+    display: flex;
+}
+
+.form{
+    width: 350px;
+    margin: 50px auto;
+    box-shadow: 0 0 5px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.feild{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.h1{
+    margin: 10px 0;
+}
+
+.dataFeild{
+    padding: 7px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 0 4px rgba(3, 3, 3, 0.486);
+}
+
+
+
+.login_btn{
+    font-size: 16px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: pink;
+    border-color: rgb(197, 136, 136);
+}
+
+.forgetpass{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}

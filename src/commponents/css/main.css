@@ -1,0 +1,43 @@
+.main-container{
+    height: 450px;
+    background: transparent linear-gradient(67deg, #E71D3A 0%, #ECC7C1 45%, #EFCAC4 58%, #E4BDB8 70%, #42A8FE 100%) 0% 0% no-repeat padding-box;
+    display: flex;
+}
+
+.discount{
+    width: 55%;
+    display: flex;
+}
+.discount .offer{
+    margin: auto;
+}
+
+.img-box{
+    width: 30%;
+    height: inherit;
+    float: right;
+    margin-right: 40px;
+    /* background-image: url(../images/2_corousel.png); */
+    background-position: center;
+    background-size: cover;
+    animation-name: imageslider;
+    /* animation-delay: 10s; */
+    animation-duration: 10s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+@keyframes imageslider {
+    0%{
+        background-image: url(../images/2_corousel.png);
+    }
+    100%{
+        background-image: url(../images/iPhone_icon.svg);
+    }
+}
+
+.main-container img{
+    width: 30%;
+    height: inherit;
+    float: right;
+    margin-right: 40px;
+}

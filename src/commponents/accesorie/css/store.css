@@ -1,0 +1,284 @@
+.store-product {
+    padding-bottom: 30px;
+    border-bottom: 1px solid rgba(189, 189, 189, 0.616);
+
+}
+
+.store-heading {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    background-color: #F6F7F8;
+}
+
+.store-heading p {
+    margin: 10px;
+    font-size: 16px;
+}
+
+.product-filter {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lf-sec {
+    width: 25%;
+}
+
+.table {
+    width: 90%;
+    padding: 15px;
+    margin: auto;
+    background-color: #F6F7F8;
+    border-radius: 5px;
+}
+
+.mt {
+    margin-top: 30px;
+}
+
+.table thead {
+    text-align: left;
+}
+
+.theading {
+    font-size: 18px;
+    padding: 15px 0;
+}
+
+tr:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+td {
+    padding: 10px 0;
+    font-weight: 300;
+}
+
+td:last-child {
+    text-align: right;
+}
+
+
+.price-filter {
+    width: 90%;
+    height: 150px;
+    background-color: #F6F7F8;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.pf-title {
+    margin: 0 15px;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.range-in-number {
+    font-size: 18px;
+    margin: 0 15px;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filter-range {
+    margin: 0 15px;
+    height: 40%;
+    display: flex;
+    align-items: center;
+}
+
+.filter-range input {
+    width: 100%;
+}
+
+.pik-color {
+    background-color: #F6F7F8;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.pc-title {
+    width: 90%;
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.colors {
+    height: 60px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.color {
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.black {
+    background-color: black;
+}
+
+.yellow {
+    background-color: rgb(255, 0, 234);
+}
+
+.golden {
+    background-color: gold;
+}
+
+.right-side {
+    width: 73%;
+}
+
+
+/* Product section */
+
+.filter-sec {
+    margin: 30px 0;
+    height: 50px;
+    background-color: #F6F7F8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.selectitem {
+    width: 100px;
+    font-size: 16px;
+    padding: 5px;
+    background-color: transparent;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.075);
+}
+
+.sortlistitem {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.selectitem option {
+    border: none;
+    outline: none;
+}
+
+.appicon {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.app-btn {
+    border: none;
+    background-color: transparent;
+}
+
+/* Item section */
+
+.store-products {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+/* pages number */
+.numberofpages {
+    display: flex;
+    background-color: #F6F7F8;
+    justify-content: center;
+    align-items: center;
+}
+
+.number {
+    margin: 0 10px;
+    text-align: center;
+    padding: 20px;
+    border: none;
+    font-size: 18px;
+}
+
+/* .number:focus {
+    background-color: black;
+    color: white;
+} */
+
+.active {
+    background-color: black;
+    color: white;
+}
+
+
+.total-sec {
+    margin-top: 20px;
+}
+
+.table {
+    display: table;
+}
+
+.table_row {
+    display: table-row;
+}
+
+.tr-btn {
+    font-size: 14px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.tr-btn:hover{
+    color: #2E90E5;
+}
+
+.total-amount {
+    border: 1px solid;
+
+    font-size: large;
+    font-weight: 900;
+}
+
+.col_cell {
+    display: table-cell;
+}
+
+.brand {
+    font-size: large;
+    color: black;
+}
+
+.table_row,
+.col_cell {
+    padding: 10px;
+}

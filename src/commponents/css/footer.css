@@ -1,0 +1,103 @@
+footer {
+    width: 100%;
+
+}
+
+.fts {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo-se {
+    font-size: 20px;
+}
+
+.fts-desc {
+    margin: auto;
+    width: 300px;
+}
+.fts-desc > .desc > p{
+    margin: 5px 0;
+}
+
+.fus {
+    margin-top: 40px;
+}
+
+.follow-desc {
+    margin: 25px 0;
+}
+.desc {
+    margin: 10px 0;
+}
+
+.icon {
+    display: flex;
+    margin: 10px;
+}
+
+.socil-icon {
+    flex: 1;
+}
+
+.sit {
+    flex: 2;
+}
+
+.socil-icon img {
+    width: 10px;
+}
+
+.twitter {
+    width: 18px;
+}
+
+
+/* footer bottom section  */
+
+.fbs {
+    margin-top: 25px;
+    width: 100%;
+}
+
+.fbs-sec {
+    width: 90%;
+    margin: auto;
+    padding: 25px 0;
+    border-top: 1px solid rgb(204, 204, 204);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fbs-ul {
+    margin: auto;
+}
+
+.fbs-ul>li {
+    list-style: none;
+    margin: 15px 0;
+}
+
+.fbs-ul>li a {
+    text-decoration: none;
+    color: gray;
+    margin: 15px 0;
+}
+hr{
+    color: rgb(216, 216, 216);
+    border-color: rgb(255, 255, 255);
+}
+.payment-cards{
+    display: flex;
+}
+.card-container{
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: flex-end;
+}
+.payment-card{
+    margin: 15px 10px;
+}

@@ -1,0 +1,207 @@
+
+
+.card-head{
+    height: 50px;
+    background-color: rgb(221, 221, 221);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ch-heading{
+    font-size: 18px;
+    color: #33A0FF;
+    width: 49px;
+}
+.shoppingcard{
+    width: 35px;
+}
+
+
+.cards{
+    width: 90%;
+    margin: 40px auto;
+    
+
+}
+.card-title{
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.prod-title{
+    width: 30%;
+}
+/* .prod-price{
+    
+}
+.prod-qty{
+    
+}
+.prod-unit-price{
+    
+} */
+
+.add-products{
+    margin: 30px 0;
+    padding-bottom: 20px;
+    display: flex;
+    border-bottom: 1px solid rgb(155, 155, 155);
+
+}
+.ap-img{
+    width: 20%;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    /* background-color: #efefe4; */
+}
+
+.prod-detail{
+    width: 90%;
+    margin: auto;
+    /* background-color: #33A0FF; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.prod{
+    /* width: 20%;
+    display: flex; */
+    width: auto;
+}
+
+.remove-btn{
+    margin: auto;
+    color: orangered;
+    border: none;
+    padding: 8px ;
+    border-radius: 50%;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.prod img{
+    width: 100%;
+    height: 150px;
+}
+
+.cp-desc{
+    /* width: 30%; */
+    width: auto;
+}
+.cpd-title{
+    width: 90%;
+    margin: auto;
+}
+.prod-price{
+    /* width: 15%; */
+    width: auto;
+}
+.qty{
+    /* width: 20%; */
+    width: auto;
+}
+
+.up{
+    /* width: 15%; */
+    color: orangered;
+    width: auto;
+}
+
+.dec-btn, .inc-btn {
+    width: 40px;
+    height: 40px;
+    border: none;
+    
+}
+
+.qt{
+    padding: 10px 20px;
+}
+
+.prod-qty{
+    
+}
+
+
+
+
+/* table */
+
+.payment-detail-sec{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.voucher{
+
+}
+.voucher-code{
+    display: flex;
+    background-color: #33A0FF;
+    border-radius: 2px;
+    overflow: hidden;
+    border: 1px solid;
+}
+
+.voucher-input{
+    width: 200px;
+    padding: 15px;
+    border: none;
+    outline: none;
+}
+.voucher-btn{
+    border: none;
+    outline: none;
+    width: 80px;
+    background-color: #33A0FF;
+}
+
+.total-payment{
+    width: 320px;
+}
+
+.table {
+    display: table;
+ }
+ 
+ .row {
+    display: table-row;
+ }
+ .total-amount{
+    border: 1px solid;
+
+    font-size: large;
+    font-weight: 900;
+ }
+ 
+ .cell {
+    display: table-cell;
+ }
+ 
+ .row,
+ .cell {
+   padding: 10px;
+ }
+
+
+ .div-btn{
+    width: 90%;
+    /* column-span: 2; */
+    background-color: aqua;
+    margin: auto;
+ }
+ .checkoutbtn{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    border: none;
+    column-span: 2;
+    background-color: #33A0FF;
+ }

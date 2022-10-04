@@ -1,0 +1,25 @@
+
+.service-sec{
+    margin: 50px 0;
+    padding: 0 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+}
+.containt{
+    margin: auto;
+    width: 250px;
+    text-align: center;
+
+}
+.containt img{
+    margin: 20px auto;
+}
+.containt .title{
+    text-transform: uppercase;
+}
+.containt .desc{
+    margin: 20px 0;
+    font-size: 14px;
+    line-height: 20px;
+}

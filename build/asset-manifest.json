@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/itsmerk98/ishop.git/ishop/static/css/main.13c283e6.css",
+    "main.js": "/itsmerk98/ishop.git/ishop/static/js/main.27ace906.js",
+    "static/media/philips_hue.svg": "/itsmerk98/ishop.git/ishop/static/media/philips_hue.af30e5dc134cd1c5e0d44df831fdfb0b.svg",
+    "static/media/2_corousel.png": "/itsmerk98/ishop.git/ishop/static/media/2_corousel.909a878d0f928dc16fff.png",
+    "static/media/iPhone_icon.svg": "/itsmerk98/ishop.git/ishop/static/media/iPhone_icon.ff14460ffde00a80b598.svg",
+    "static/media/H-squared.svg": "/itsmerk98/ishop.git/ishop/static/media/H-squared.e34c411af3c5d07d5f46556b70e5f44a.svg",
+    "static/media/apple_macbook.png": "/itsmerk98/ishop.git/ishop/static/media/apple_macbook.081453514dbfde6f636a.png",
+    "static/media/Netatmo_rain.svg": "/itsmerk98/ishop.git/ishop/static/media/Netatmo_rain.9db5b9344923b1c28e35c21afd73850d.svg",
+    "static/media/Apple_Macbook_Air.png": "/itsmerk98/ishop.git/ishop/static/media/Apple_Macbook_Air.c96ddfc44336e2c6b926.png",
+    "static/media/Western_union.svg": "/itsmerk98/ishop.git/ishop/static/media/Western_union.bb53ec9ba5d88a93a2d6d5b8c0c3a085.svg",
+    "static/media/iSHOP_Logo.svg": "/itsmerk98/ishop.git/ishop/static/media/iSHOP_Logo.20a8822fdf73ae44ba249e874168d845.svg",
+    "static/media/Paypal.svg": "/itsmerk98/ishop.git/ishop/static/media/Paypal.9cdf9d4f6157493a515ab1fa4ea2778a.svg",
+    "static/media/visa.svg": "/itsmerk98/ishop.git/ishop/static/media/visa.fdc0b576a0a0b409bcc4a712ac6e55e2.svg",
+    "static/media/shipping.svg": "/itsmerk98/ishop.git/ishop/static/media/shipping.0f00a395ef405b26dff511950e8d01b8.svg",
+    "static/media/support.svg": "/itsmerk98/ishop.git/ishop/static/media/support.4e40b54ebb87af71d5e3c56d422e945e.svg",
+    "static/media/master_card.svg": "/itsmerk98/ishop.git/ishop/static/media/master_card.7ab2038f420bbc3f47f6b72c393108df.svg",
+    "static/media/refund.svg": "/itsmerk98/ishop.git/ishop/static/media/refund.c7b2e4d535bd625f794f8e21ce5e97a4.svg",
+    "index.html": "/itsmerk98/ishop.git/ishop/index.html",
+    "static/media/twitter.svg": "/itsmerk98/ishop.git/ishop/static/media/twitter.bde6351853a0d435417918ab201f067f.svg",
+    "static/media/facebook.svg": "/itsmerk98/ishop.git/ishop/static/media/facebook.7ae802d33c0946dc86e780ede44f2f5b.svg",
+    "main.13c283e6.css.map": "/itsmerk98/ishop.git/ishop/static/css/main.13c283e6.css.map",
+    "main.27ace906.js.map": "/itsmerk98/ishop.git/ishop/static/js/main.27ace906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c283e6.css",
+    "static/js/main.27ace906.js"
+  ]
+}
