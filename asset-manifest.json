@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itsmerk98/iShop/static/css/main.2d5c1a8a.css",
-    "main.js": "/itsmerk98/iShop/static/js/main.3500f5b1.js",
+    "main.js": "/itsmerk98/iShop/static/js/main.f610f589.js",
     "static/media/philips_hue.svg": "/itsmerk98/iShop/static/media/philips_hue.af30e5dc134cd1c5e0d44df831fdfb0b.svg",
     "static/media/2_corousel.png": "/itsmerk98/iShop/static/media/2_corousel.909a878d0f928dc16fff.png",
     "static/media/iPhone_icon.svg": "/itsmerk98/iShop/static/media/iPhone_icon.ff14460ffde00a80b598.svg",
@@ -20,10 +20,10 @@
     "static/media/twitter.svg": "/itsmerk98/iShop/static/media/twitter.bde6351853a0d435417918ab201f067f.svg",
     "static/media/facebook.svg": "/itsmerk98/iShop/static/media/facebook.7ae802d33c0946dc86e780ede44f2f5b.svg",
     "main.2d5c1a8a.css.map": "/itsmerk98/iShop/static/css/main.2d5c1a8a.css.map",
-    "main.3500f5b1.js.map": "/itsmerk98/iShop/static/js/main.3500f5b1.js.map"
+    "main.f610f589.js.map": "/itsmerk98/iShop/static/js/main.f610f589.js.map"
   },
   "entrypoints": [
     "static/css/main.2d5c1a8a.css",
-    "static/js/main.3500f5b1.js"
+    "static/js/main.f610f589.js"
   ]
 }
