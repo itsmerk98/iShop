@@ -14,7 +14,7 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route exate path='/itsmerk98/iShop' element={<Home />} />
+          <Route exate path='/' element={<Home />} />
           <Route path='/accesories' element={<Accesories />} />
           <Route path='/card' element={<Cards />} />
           <Route path='/login' element={<Login />} />
