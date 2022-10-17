@@ -126,7 +126,7 @@ const Header = () => {
                     <div className='nav-link'>
                         <ul className='ul'>
                             <li >
-                                <a href='/'>HOME</a>
+                                <a href='/itsmerk98/iShop'>HOME</a>
                             </li>
                             <li onMouseOver={() => {
                                 document.getElementById('store').style.display = "flex";
